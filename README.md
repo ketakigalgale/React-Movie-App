@@ -1,12 +1,20 @@
-# React + Vite
+# 🎬 React Movie App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and responsive movie browsing application built with **React JS**. This app allows users to search for movies, view detailed information, and manage a list of favorite movies — all using real-time data from a movie API.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🔍 **Search Movies** by title
+- 🎞️ **Display movie details** (poster, rating, release year, etc.)
+- ❤️ **Add/Remove favorites** with localStorage persistence
+- 🌙 **Dark Mode UI** for a better viewing experience
+- 📱 **Responsive design** – works smoothly on all devices
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚛️ React JS
+- 🧠 React Hooks (useState, useEffect)
+- 🎨 CSS Flexbox & Grid
+- 🌐 Axios for API calls
+- 📦 OMDb API or The Movie Database API (TMDb)
+- 🖼️ FontAwesome / React Icons for icons
